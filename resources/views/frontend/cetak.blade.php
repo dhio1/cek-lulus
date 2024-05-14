@@ -89,7 +89,7 @@
                 <td>{{ $student->name }}</td>
             </tr>
             <tr>
-                <td width="100">NIS/NISN</td>
+                <td width="100">NISN</td>
                 <td width="1">:</td>
                 <td>{{ $student->nisn }}</td>
             </tr>
